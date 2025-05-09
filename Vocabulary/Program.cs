@@ -4,6 +4,11 @@
 // WriteLine($"Computer named {Env.MachineName} says \"No.\"");
 using System.Reflection;
 
+// Declare some unused variables using types in
+// additional assemblies to make them load too.
+System.Data.DataSet ds = new();
+HttpClient client = new();
+
 // Get the assembly that is the entry point for this app.
 Assembly? myApp = Assembly.GetEntryAssembly();
 // If the previous line returned nothing then end the app.
