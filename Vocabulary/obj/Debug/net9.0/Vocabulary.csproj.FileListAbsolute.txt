@@ -1,0 +1,14 @@
+Z:\Development\Books\C# 13 and .NET 9\Code\Chapter02-vscode\Vocabulary\obj\Debug\net9.0\Vocabulary.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Development\Books\C# 13 and .NET 9\Code\Chapter02-vscode\Vocabulary\obj\Debug\net9.0\Vocabulary.AssemblyInfoInputs.cache
+Z:\Development\Books\C# 13 and .NET 9\Code\Chapter02-vscode\Vocabulary\obj\Debug\net9.0\Vocabulary.AssemblyInfo.cs
+Z:\Development\Books\C# 13 and .NET 9\Code\Chapter02-vscode\Vocabulary\obj\Debug\net9.0\Vocabulary.csproj.CoreCompileInputs.cache
+Z:\Development\Books\C# 13 and .NET 9\Code\Chapter02-vscode\Vocabulary\bin\Debug\net9.0\Vocabulary.exe
+Z:\Development\Books\C# 13 and .NET 9\Code\Chapter02-vscode\Vocabulary\bin\Debug\net9.0\Vocabulary.deps.json
+Z:\Development\Books\C# 13 and .NET 9\Code\Chapter02-vscode\Vocabulary\bin\Debug\net9.0\Vocabulary.runtimeconfig.json
+Z:\Development\Books\C# 13 and .NET 9\Code\Chapter02-vscode\Vocabulary\bin\Debug\net9.0\Vocabulary.dll
+Z:\Development\Books\C# 13 and .NET 9\Code\Chapter02-vscode\Vocabulary\bin\Debug\net9.0\Vocabulary.pdb
+Z:\Development\Books\C# 13 and .NET 9\Code\Chapter02-vscode\Vocabulary\obj\Debug\net9.0\Vocabulary.dll
+Z:\Development\Books\C# 13 and .NET 9\Code\Chapter02-vscode\Vocabulary\obj\Debug\net9.0\refint\Vocabulary.dll
+Z:\Development\Books\C# 13 and .NET 9\Code\Chapter02-vscode\Vocabulary\obj\Debug\net9.0\Vocabulary.pdb
+Z:\Development\Books\C# 13 and .NET 9\Code\Chapter02-vscode\Vocabulary\obj\Debug\net9.0\Vocabulary.genruntimeconfig.cache
+Z:\Development\Books\C# 13 and .NET 9\Code\Chapter02-vscode\Vocabulary\obj\Debug\net9.0\ref\Vocabulary.dll
