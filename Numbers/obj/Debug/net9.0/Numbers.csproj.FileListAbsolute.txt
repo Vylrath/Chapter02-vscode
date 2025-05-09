@@ -1,0 +1,15 @@
+Z:\Development\Books\C# 13 and .NET 9\Code\Chapter02-vscode\Numbers\bin\Debug\net9.0\Numbers.exe
+Z:\Development\Books\C# 13 and .NET 9\Code\Chapter02-vscode\Numbers\bin\Debug\net9.0\Numbers.deps.json
+Z:\Development\Books\C# 13 and .NET 9\Code\Chapter02-vscode\Numbers\bin\Debug\net9.0\Numbers.runtimeconfig.json
+Z:\Development\Books\C# 13 and .NET 9\Code\Chapter02-vscode\Numbers\bin\Debug\net9.0\Numbers.dll
+Z:\Development\Books\C# 13 and .NET 9\Code\Chapter02-vscode\Numbers\bin\Debug\net9.0\Numbers.pdb
+Z:\Development\Books\C# 13 and .NET 9\Code\Chapter02-vscode\Numbers\obj\Debug\net9.0\Numbers.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Development\Books\C# 13 and .NET 9\Code\Chapter02-vscode\Numbers\obj\Debug\net9.0\Numbers.AssemblyInfoInputs.cache
+Z:\Development\Books\C# 13 and .NET 9\Code\Chapter02-vscode\Numbers\obj\Debug\net9.0\Numbers.AssemblyInfo.cs
+Z:\Development\Books\C# 13 and .NET 9\Code\Chapter02-vscode\Numbers\obj\Debug\net9.0\Numbers.csproj.CoreCompileInputs.cache
+Z:\Development\Books\C# 13 and .NET 9\Code\Chapter02-vscode\Numbers\obj\Debug\net9.0\Numbers.sourcelink.json
+Z:\Development\Books\C# 13 and .NET 9\Code\Chapter02-vscode\Numbers\obj\Debug\net9.0\Numbers.dll
+Z:\Development\Books\C# 13 and .NET 9\Code\Chapter02-vscode\Numbers\obj\Debug\net9.0\refint\Numbers.dll
+Z:\Development\Books\C# 13 and .NET 9\Code\Chapter02-vscode\Numbers\obj\Debug\net9.0\Numbers.pdb
+Z:\Development\Books\C# 13 and .NET 9\Code\Chapter02-vscode\Numbers\obj\Debug\net9.0\Numbers.genruntimeconfig.cache
+Z:\Development\Books\C# 13 and .NET 9\Code\Chapter02-vscode\Numbers\obj\Debug\net9.0\ref\Numbers.dll
